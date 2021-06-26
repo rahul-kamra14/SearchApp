@@ -1,0 +1,194 @@
+{
+    "totalResultsCount": 4918,
+    "geonames": [{
+        "adminCode1": "CA",
+        "lng": "-122.41942",
+        "geonameId": 5391959,
+        "toponymName": "San Francisco",
+        "countryId": "6252001",
+        "fcl": "P",
+        "population": 864816,
+        "countryCode": "US",
+        "name": "San Francisco",
+        "fclName": "city, village,...",
+        "adminCodes1": {
+            "ISO3166_2": "CA"
+        },
+        "countryName": "United States",
+        "fcodeName": "seat of a second-order administrative division",
+        "adminName1": "California",
+        "lat": "37.77493",
+        "fcode": "PPLA2"
+    }, {
+        "adminCode1": "22",
+        "lng": "-76.83987",
+        "geonameId": 9172255,
+        "toponymName": "San Francisco",
+        "countryId": "3686110",
+        "fcl": "A",
+        "population": 6808,
+        "countryCode": "CO",
+        "name": "San Francisco",
+        "fclName": "country, state, region,...",
+        "adminCodes1": {
+            "ISO3166_2": "PUT"
+        },
+        "countryName": "Colombia",
+        "fcodeName": "second-order administrative division",
+        "adminName1": "Putumayo",
+        "lat": "1.11155",
+        "fcode": "ADM2"
+    }, {
+        "adminCode1": "02",
+        "lng": "-74.97901",
+        "geonameId": 9172258,
+        "toponymName": "San Francisco",
+        "countryId": "3686110",
+        "fcl": "A",
+        "population": 6395,
+        "countryCode": "CO",
+        "name": "San Francisco",
+        "fclName": "country, state, region,...",
+        "adminCodes1": {
+            "ISO3166_2": "ANT"
+        },
+        "countryName": "Colombia",
+        "fcodeName": "second-order administrative division",
+        "adminName1": "Antioquia",
+        "lat": "5.85974",
+        "fcode": "ADM2"
+    }, {
+        "adminCode1": "04",
+        "lng": "-84.12934",
+        "geonameId": 3621911,
+        "toponymName": "San Francisco",
+        "countryId": "3624060",
+        "fcl": "P",
+        "population": 55923,
+        "countryCode": "CR",
+        "name": "San Francisco",
+        "fclName": "city, village,...",
+        "adminCodes1": {
+            "ISO3166_2": "H"
+        },
+        "countryName": "Costa Rica",
+        "fcodeName": "populated place",
+        "adminName1": "Heredia",
+        "lat": "9.99299",
+        "fcode": "PPL"
+    }, {
+        "adminCode1": "13",
+        "lng": "125.41667",
+        "geonameId": 1690023,
+        "toponymName": "San Francisco (Anao-Aon)",
+        "countryId": "1694008",
+        "fcl": "A",
+        "population": 14552,
+        "countryCode": "PH",
+        "name": "San Francisco (Anao-Aon)",
+        "fclName": "country, state, region,...",
+        "adminCodes1": {
+            "ISO3166_2": "13"
+        },
+        "countryName": "Philippines",
+        "fcodeName": "third-order administrative division",
+        "adminName1": "Caraga",
+        "lat": "9.71667",
+        "fcode": "ADM3"
+    }, {
+        "adminCode1": "05",
+        "lng": "-77.23833",
+        "geonameId": 3540228,
+        "toponymName": "San Francisco de Jucaral",
+        "countryId": "3562981",
+        "fcl": "L",
+        "population": 0,
+        "countryCode": "CU",
+        "name": "San Francisco de Jucaral",
+        "fclName": "parks,area, ...",
+        "adminCodes1": {
+            "ISO3166_2": "09"
+        },
+        "countryName": "Cuba",
+        "fcodeName": "locality",
+        "adminName1": "Camagüey",
+        "lat": "21.29861",
+        "fcode": "LCTY"
+    }, {
+        "adminCode1": "06",
+        "lng": "-90.66667",
+        "geonameId": 3590198,
+        "toponymName": "San Francisco Verapaz",
+        "countryId": "3595528",
+        "fcl": "L",
+        "population": 0,
+        "countryCode": "GT",
+        "name": "San Francisco Verapaz",
+        "fclName": "parks,area, ...",
+        "adminCodes1": {
+            "ISO3166_2": "ES"
+        },
+        "countryName": "Guatemala",
+        "fcodeName": "locality",
+        "adminName1": "Escuintla",
+        "lat": "14.23333",
+        "fcode": "LCTY"
+    }, {
+        "adminCode1": "03",
+        "lng": "-81.25972",
+        "geonameId": 3540211,
+        "toponymName": "San Francisco de Paula",
+        "countryId": "3562981",
+        "fcl": "L",
+        "population": 0,
+        "countryCode": "CU",
+        "name": "San Francisco de Paula",
+        "fclName": "parks,area, ...",
+        "adminCodes1": {
+            "ISO3166_2": "04"
+        },
+        "countryName": "Cuba",
+        "fcodeName": "locality",
+        "adminName1": "Matanzas",
+        "lat": "22.95806",
+        "fcode": "LCTY"
+    }, {
+        "adminCode1": "07",
+        "lng": "-78.53333",
+        "geonameId": 3540230,
+        "toponymName": "San Francisco de Cupeyes",
+        "countryId": "3562981",
+        "fcl": "L",
+        "population": 0,
+        "countryCode": "CU",
+        "name": "San Francisco de Cupeyes",
+        "fclName": "parks,area, ...",
+        "adminCodes1": {
+            "ISO3166_2": "08"
+        },
+        "countryName": "Cuba",
+        "fcodeName": "locality",
+        "adminName1": "Ciego de Ávila",
+        "lat": "21.88333",
+        "fcode": "LCTY"
+    }, {
+        "adminCode1": "03",
+        "lng": "-86.77101",
+        "geonameId": 3616852,
+        "toponymName": "San Francisco del Norte",
+        "countryId": "3617476",
+        "fcl": "P",
+        "population": 0,
+        "countryCode": "NI",
+        "name": "San Francisco del Norte",
+        "fclName": "city, village,...",
+        "adminCodes1": {
+            "ISO3166_2": "CI"
+        },
+        "countryName": "Nicaragua",
+        "fcodeName": "seat of a second-order administrative division",
+        "adminName1": "Chinandega",
+        "lat": "13.19921",
+        "fcode": "PPLA2"
+    }]
+}

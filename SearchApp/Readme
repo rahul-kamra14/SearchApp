@@ -1,0 +1,7 @@
+// UI should be through code
+// Persistent data storage through core data
+//Call API in background thread
+//Make network layer more scalable
+//Use of Rx swift
+// Make data model array thread safe
+//
